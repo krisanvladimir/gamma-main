@@ -1,0 +1,4 @@
+export const ADD_NUMBER = 'ADD_NUMBER'
+export const CHANGE_NAME = 'CHANGE_NAME'
+export const ADD_DESKTOP = 'ADD_DESKTOP'
+export const CHANGE_DESKTOP = 'CHANGE_DESKTOP'
